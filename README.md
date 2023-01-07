@@ -1,2 +1,2 @@
 # projecto-final
-este é a metade do meu projecto
+este é o meu projecto final
